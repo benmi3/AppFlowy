@@ -123,7 +123,7 @@
   },
   "importPanel": {
     "textAndMarkdown": "Tekst & Markdown",
-    "documentFromV010": "Dokumen fra v0.1.0",
+    "documentFromV010": "Dokumenter fra v0.1.0",
     "databaseFromV010": "Database fra v0.1.0",
     "csv": "CSV",
     "database": "Database"
@@ -195,7 +195,7 @@
   },
   "dialogCreatePageNameHint": "Side navn",
   "questionBubble": {
-    "shortcuts": "Shortcuts",
+    "shortcuts": "Hurtigtaster",
     "whatsNew": "Hva er nytt?",
     "help": "Hjelp",
     "markdown": "Markdown",
@@ -232,24 +232,24 @@
     "link": "Link"
   },
   "tooltip": {
-    "lightMode": "Switch to Light mode",
-    "darkMode": "Switch to Dark mode",
-    "openAsPage": "Open as a Page",
-    "addNewRow": "Add a new row",
-    "openMenu": "Click to open menu",
-    "dragRow": "Long press to reorder the row",
-    "viewDataBase": "View database",
-    "referencePage": "This {name} is referenced",
-    "addBlockBelow": "Add a block below",
-    "aiGenerate": "Generate"
+    "lightMode": "Bytt til Lysmodus",
+    "darkMode": "Bytt til Mørkmodus",
+    "openAsPage": "Åpne som Side",
+    "addNewRow": "Legg til ny linje",
+    "openMenu": "Klikk for å åpne menyen",
+    "dragRow": "Klikk og hold for å endre rekkefølge",
+    "viewDataBase": "Se database",
+    "referencePage": "{name} er referert",
+    "addBlockBelow": "Legg til ny blokk under",
+    "aiGenerate": "Generer"
   },
   "sideBar": {
-    "closeSidebar": "Close sidebar",
-    "openSidebar": "Open sidebar",
-    "personal": "Personal",
-    "private": "Private",
-    "workspace": "Workspace",
-    "favorites": "Favorites",
+    "closeSidebar": "Lukk sidemeny",
+    "openSidebar": "Åpne sidemeny",
+    "personal": "Personlig",
+    "private": "Privat",
+    "workspace": "Arbeidsområde",
+    "favorites": "Favoritter",
     "clickToHidePrivate": "Click to hide private space\nPages you created here are only visible to you",
     "clickToHideWorkspace": "Click to hide workspace\nPages you created here are visible to every member",
     "clickToHidePersonal": "Click to hide personal space",
